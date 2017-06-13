@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="STextView">
+        <attr name="sfont" format="enum">
+            <enum name="regular" value="1" />
+            <enum name="medium" value="2" />
+            <enum name="bold" value="3" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="loader_view">
+        <attr name="width_weight" format="float" />
+        <attr name="height_weight" format="float" />
+        <attr name="use_gradient" format="boolean" />
+    </declare-styleable>
+</resources>
